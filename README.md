@@ -1,6 +1,6 @@
-# restapi
+# Mobile App for GitHub User Analysis
 
-A new Flutter project.
+A new Flutter project which uses my REST API created by my Django project.
 
 ## Getting Started
 
